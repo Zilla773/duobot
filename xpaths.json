@@ -1,0 +1,49 @@
+
+{
+    "img-ms" : {
+        "img-ms-1" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div[1]",
+        "img-ms-2" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div[2]",
+        "img-ms-3" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div[3]"
+    },
+
+    "ms-1" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div",
+    "ms-2" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div[2]/div",
+    "ms-3" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div[3]",
+
+    "pairs-1-key" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[1]/div[1]/button",
+    "pairs-2-key" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[1]/div[2]/button",
+    "pairs-3-key" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[1]/div[3]/button",
+    "pairs-4-key" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[1]/div[4]/button",
+    "pairs-5-key" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[1]/div[5]/button",
+    "pairs-6-key" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[1]/div[6]/button",
+
+    "pairs-1-value" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[2]/div[1]/button",
+    "pairs-2-value" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[2]/div[2]/button",
+    "pairs-3-value" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[2]/div[3]/button",
+    "pairs-4-value" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[2]/div[4]/button",
+    "pairs-5-value" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[2]/div[5]/button",
+    "pairs-6-value" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div/div/div[2]/div[6]/button",
+
+
+    "already have account btn" : "//*[@id=\"root\"]/div/div/span[1]/div/div[1]/div[2]/div[2]/button",
+    "email-username field" : "//*[@id=\"overlays\"]/div[5]/div/div[2]/form/div[1]/div[1]/div[1]/label/div/input",
+    "password field" : "//*[@id=\"overlays\"]/div[5]/div/div[2]/form/div[1]/div[1]/div[2]/label/div[1]/input",
+    "login btn" : "//*[@id=\"overlays\"]/div[5]/div/div[2]/form/div[1]/button",
+
+    "question" : "//*[@id=\"root\"]/div/div/div/div/div[2]/div/div/div/div/div[2]/div[1]/div/div[2]/div[1]/div/span",
+    "solution" : "//*[@id=\"session/PlayerFooter\"]/div/div[2]/div/div[2]/div[1]/div/div",
+    "check" : "//*[@id=\"session/PlayerFooter\"]/div/div/button",
+    "continue correct" : "//*[@id=\"session/PlayerFooter\"]/div/div[2]/button",
+    "continue incorrect" : "//*[@id=\"session/PlayerFooter\"]/div/div[3]/button",
+    "use keyboard" : "//*[@id=\"session/PlayerFooter\"]/div/div[1]/button/div/div[2]",
+    "use word bank" : "//*[@id=\"session/PlayerFooter\"]/div/div[1]/button/div",
+    "exit" : "//*[@id=\"root\"]/div/div/div/div/div[1]/div/div/button",
+
+    "intro-btn" : "//*[@id=\"root\"]/div/div[4]/div/div/div/div[1]/div/div[2]/div[1]/div/div[1]/div/div[2]/div/div[1]/div[2]/a"
+
+
+
+
+
+
+}
